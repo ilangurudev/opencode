@@ -521,6 +521,15 @@ Add skills, commands, and MCP support to your agent.
 
 ---
 
+## Optional Deep Dives
+
+Want to understand extensibility mechanisms in more detail?
+
+- 🔌 [MCP Integration](/deep-dives/mcp-integration.md) - How external tools integrate with opencode
+- 🔧 [Tool System Internals](/deep-dives/tool-system-internals.md) - How MCP tools are registered and executed
+
+---
+
 ## Next Up
 
 In **Day 13-14**, we'll review the complete architecture and polish your agent.

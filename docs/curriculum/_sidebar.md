@@ -20,4 +20,14 @@
     * [Assignment 7: Capstone](/assignments/07-capstone.md)
 
 * **Deep Dives**
-  * [Architecture Internals](/deep-dives/architecture.md)
+  * [Architecture Overview](/deep-dives/overview.md)
+  * [Main Loop Internals](/deep-dives/main-loop-internals.md)
+  * [The Processor](/deep-dives/processor.md)
+  * [Tool System Internals](/deep-dives/tool-system-internals.md)
+  * [Agent System](/deep-dives/agent-system.md)
+  * [Permissions](/deep-dives/permissions.md)
+  * [Compaction](/deep-dives/compaction.md)
+  * [Provider Abstraction](/deep-dives/provider-abstraction.md)
+  * [Event Bus](/deep-dives/event-bus.md)
+  * [MCP Integration](/deep-dives/mcp-integration.md)
+  * [Error Handling](/deep-dives/error-handling.md)

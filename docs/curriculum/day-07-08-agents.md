@@ -711,8 +711,10 @@ Now let's add agents and permissions to your agent.
 
 ---
 
-## Optional Deep Dive
+## Optional Deep Dives
 
-Want to see the full permission evaluation logic?
+Want to understand agents and permissions in more detail?
 
-→ [Deep Dive: Permission System Internals](./deep-dives/permissions.md)
+- 🤖 [Agent System](/deep-dives/agent-system.md) - How different agent modes work
+- 🔐 [Permissions](/deep-dives/permissions.md) - Permission evaluation and rule merging
+- 🔧 [Tool System Internals](/deep-dives/tool-system-internals.md) - How tools integrate with permissions
