@@ -1,5 +1,3 @@
-<!-- docs/curriculum/_sidebar.md -->
-
 * **Getting Started**
   * [Curriculum Overview](index.md)
 
