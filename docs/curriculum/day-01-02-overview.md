@@ -469,8 +469,10 @@ Your agent should:
 
 ---
 
-## Optional Deep Dive
+## Optional Deep Dives
 
 Want to understand the architecture in more detail?
 
-→ [Deep Dive: opencode Architecture Internals](./deep-dives/architecture.md)
+- 📖 [Architecture Overview](/deep-dives/overview.md) - Codebase structure, design patterns, event flow
+- 🏗️ [Event Bus](/deep-dives/event-bus.md) - How the engine decouples from the UI
+- 🔧 [Provider Abstraction](/deep-dives/provider-abstraction.md) - Multi-LLM support

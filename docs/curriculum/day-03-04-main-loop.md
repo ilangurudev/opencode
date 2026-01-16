@@ -604,8 +604,10 @@ Now let's enhance your minimal agent with proper streaming and tool dispatch.
 
 ---
 
-## Optional Deep Dive
+## Optional Deep Dives
 
-Want to see every state the processor can handle?
+Want to understand the main loop in even more detail?
 
-→ [Deep Dive: The Processor State Machine](./deep-dives/processor.md)
+- 🔄 [Main Loop Internals](/deep-dives/main-loop-internals.md) - Line-by-line walkthrough of the loop
+- 📊 [The Processor](/deep-dives/processor.md) - Stream handling and tool execution
+- 🚨 [Error Handling](/deep-dives/error-handling.md) - Retry strategies and error recovery

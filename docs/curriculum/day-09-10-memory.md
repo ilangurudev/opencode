@@ -524,3 +524,12 @@ The memory system ensures your agent can handle long conversations without hitti
 Add conversation memory and compaction to your agent.
 
 **Start here**: [Assignment 5: Memory System](./assignments/05-memory.md)
+
+---
+
+## Optional Deep Dives
+
+Want to understand context management in more detail?
+
+- 💾 [Compaction](/deep-dives/compaction.md) - How opencode manages context limits
+- 📊 [The Processor](/deep-dives/processor.md) - Token tracking and overflow detection

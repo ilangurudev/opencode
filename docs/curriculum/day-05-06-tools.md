@@ -805,8 +805,9 @@ Now it's time to build real tools for your agent.
 
 ---
 
-## Optional Deep Dive
+## Optional Deep Dives
 
-Want to see all the fuzzy matching strategies in the edit tool?
+Want to understand the tool system in more detail?
 
-→ [Deep Dive: Edit Tool Fuzzy Matching](./deep-dives/edit-fuzzy.md)
+- 🔧 [Tool System Internals](/deep-dives/tool-system-internals.md) - Tool definition, validation, and execution
+- 🔐 [Permissions](/deep-dives/permissions.md) - How permission checks protect tool execution
